@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://issahxdave-session.onrender.com">
+  <a href="https://davexx-sessionpair.onrender.com">
     <img src="https://img.shields.io/badge/Pair_Site_One-Get_Code-purple?style=for-the-badge&logo=whatsapp" alt="Pair Site One" width="200">
   </a>
 
-  <a href="https://davexx-sessionpair.onrender.com">
+  <a href="https://issahxdave-session.onrender.com">
     <img src="https://img.shields.io/badge/Pair_Site_Two-Get_Code-blue?style=for-the-badge&logo=whatsapp" alt="Pair Site Two" width="200">
   </a>
 
